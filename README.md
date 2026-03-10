@@ -8,7 +8,7 @@
 
 ---
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/miguelagarcia-dev/miguelagarcia-dev/main/GitProfile.gif"/>
+<img align="right" height="350" width="350" alt="" src="https://raw.githubusercontent.com/miguelagarcia-dev/Github-Profile/main/GitProfile.gif" />
 
 My name's Miguel and I'm a Computer Engineering student playing with graphics pipelines and exploring how machine learning intersects with computer graphics. I'm learning GPU programming, ray tracing, physics simulations, Unreal Engine, and just in general figuring out how rendering systems work. I'm also currently doing independent researching in neural approaches to rendering.
 
@@ -21,15 +21,8 @@ My name's Miguel and I'm a Computer Engineering student playing with graphics pi
   
 ---
 
-### Languages and Tools:
+### Interests 
 
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="linux"></code>
+Rendering, Graphics, GPU Performance, Research & DevTech Engineering
+
+---
