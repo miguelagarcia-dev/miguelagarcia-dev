@@ -8,7 +8,7 @@
 
 ---
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/miguelagarcia-dev/miguelagarcia-dev/main/GitProfile.gif"/>
 
 My name's Miguel and I'm a Computer Engineering student playing with graphics pipelines and exploring how machine learning intersects with computer graphics. I'm learning GPU programming, ray tracing, physics simulations, Unreal Engine, and just in general figuring out how rendering systems work. I'm also currently doing independent researching in neural approaches to rendering.
 
