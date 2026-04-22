@@ -2,7 +2,7 @@
 ---
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/miguelanggarcia)
-[![Website Badge](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=Google-Chrome&logoColor=white)]([https://yourwebsite.com](https://www.miguelagarcia.dev/))
+[![Website Badge](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=Google-Chrome&logoColor=white)](https://www.miguelagarcia.dev/)
 [![Email Badge](https://img.shields.io/badge/-NJIT%20Mail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mag252@njit.edu)
 [![Alt Email Badge](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:miguelagarciawork@gmail.com)
 
