@@ -9,7 +9,9 @@
 
 
 <div align="center">
-<img align="right" height="350" width="350" alt="" src="https://raw.githubusercontent.com/miguelagarcia-dev/Github-Profile/main/GitProfile.gif" />
+  <a href="https://github.com/miguelagarcia-dev">
+    <img align="right" height="350" width="350" alt="" src="https://raw.githubusercontent.com/miguelagarcia-dev/Github-Profile/main/GitProfile.gif" />
+  </a>
 </div>
 
 My name's Miguel and I'm a Computer Engineering student who loves breaking systems apart to figure out how they actually work. Right now I'm deep in graphics — ray tracing, physics simulations in Unreal Engine, and where machine learning meets rendering (3DGS, neural reconstruction). Outside of that I help SHPE members prep for interviews and navigate everything nobody warns you about in college. Always down to talk graphics, game engines, or any idea that sounds genuinely interesting.
