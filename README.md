@@ -56,6 +56,8 @@ Outside of that, I mentor SHPE members through the things nobody warns you about
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
 ![Apple Metal](https://img.shields.io/badge/Apple_Metal-000000?style=flat-square&logo=apple&logoColor=white)
+![DirectX 11](https://img.shields.io/badge/DirectX-11-0078D4?style=flat-square&logo=microsoft)
+![OpenGL](https://img.shields.io/badge/OpenGL-4.6-5586A4?style=flat-square)
 
 
 <picture>
