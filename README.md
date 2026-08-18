@@ -34,7 +34,7 @@ Outside of that, I mentor SHPE members through the things nobody warns you about
 ### Current Focus
 
 <pre>
-▸ Gaussian Splatting & neural rendering, Unreal Engine, Metal API
+▸ Gaussian Splatting & neural rendering, WebGPU ray tracing, physics-based simulation
 </pre>
 
 ---
@@ -47,6 +47,8 @@ Outside of that, I mentor SHPE members through the things nobody warns you about
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![HLSL](https://img.shields.io/badge/HLSL-0078D4?style=flat-square)
+![WGSL](https://img.shields.io/badge/WGSL-005A9C?style=flat-square)
 
 **Tools & Frameworks**
 
@@ -54,11 +56,10 @@ Outside of that, I mentor SHPE members through the things nobody warns you about
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![PyOpenGL](https://img.shields.io/badge/PyOpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![Apple Metal](https://img.shields.io/badge/Apple_Metal-000000?style=flat-square&logo=apple&logoColor=white)
 ![DirectX 11](https://img.shields.io/badge/DirectX_11-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 ![OpenGL 4.6](https://img.shields.io/badge/OpenGL_4.6-5586A4?style=flat-square&logo=opengl&logoColor=white)
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miguelagarcia-dev/miguelagarcia-dev/output/github-contribution-grid-snake-dark.svg" />
