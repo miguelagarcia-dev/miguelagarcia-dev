@@ -1,13 +1,11 @@
 <div align="center">
-  <img src="./readme_banner.gif" width="100%" alt="Weaver's Mask — dark fantasy banner" />
+  <img src="./GithubBanner.gif" width="100%" alt="Weaver's Mask — dark fantasy banner" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/miguelagarcia-dev/Github-Profile/main/GitProfile.gif" width="120" height="120" style="border-radius: 50%"/>
- 
-  # Miguel Garcia
+  
   **Graphics & Rendering**
   
   &nbsp;Previously: **Full Stack Co-op @ Verizon** |
