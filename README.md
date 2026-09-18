@@ -1,31 +1,6 @@
 <div align="center">
-  <img src="./GithubBanner.gif" width="100%" alt="Weaver's Mask — dark fantasy banner" />
+  <img src="./GithubBanner.gif" width="75%" />
 </div>
-
----
-
-<div align="center">
-  
-  **Graphics & Rendering**
-  
-  &nbsp;Previously: **Full Stack Co-op @ Verizon** |
-  &nbsp;**Computer Engineering and Computational Math** @ NJIT
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/miguelanggarcia)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.miguelagarcia.dev/)
-  [![NJIT Mail](https://img.shields.io/badge/NJIT_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mag252@njit.edu)
-  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguelagarciawork@gmail.com)
-</div>
-
----
-
-### whoami
-
-Computer Engineering student obsessed with breaking these systems apart to understand how they actually work. Currently deep in **graphics programming**, ML and rendering (3DGS, neural reconstruction).
-
-Outside of that, I mentor SHPE members through the things nobody warns you about in college.
-
-> Always down to talk graphics, game engines, or any idea that sounds genuinely interesting.
 
 ---
 
