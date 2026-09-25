@@ -2,39 +2,4 @@
   <img src="./GithubBanner.gif" width="75%" />
 </div>
 
----
 
-### Current Focus
-
-<pre>
-▸ Gaussian Splatting & neural rendering, WebGPU ray tracing, physics-based simulation
-</pre>
-
----
-
-### Tech Stack
-
-**Languages**
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![HLSL](https://img.shields.io/badge/HLSL-0078D4?style=flat-square)
-![WGSL](https://img.shields.io/badge/WGSL-005A9C?style=flat-square)
-
-**Tools & Frameworks**
-
-![WebGPU](https://img.shields.io/badge/WebGPU-005A9C?style=flat-square&logo=google-chrome&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![PyOpenGL](https://img.shields.io/badge/PyOpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![Apple Metal](https://img.shields.io/badge/Apple_Metal-000000?style=flat-square&logo=apple&logoColor=white)
-![DirectX 11](https://img.shields.io/badge/DirectX_11-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![OpenGL 4.6](https://img.shields.io/badge/OpenGL_4.6-5586A4?style=flat-square&logo=opengl&logoColor=white)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miguelagarcia-dev/miguelagarcia-dev/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/miguelagarcia-dev/miguelagarcia-dev/output/github-contribution-grid-snake.svg" />
-</picture>
